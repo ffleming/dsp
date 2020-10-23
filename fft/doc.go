@@ -4,7 +4,7 @@
 // Package fft provides support for 1 dimensional fast fourier transform and
 // spectra.
 //
-// Package fft is part of http://zikichombo.org
+// Package fft is part of http://github.com/ffleming
 //
 // Fast fourier transforms provide frequency domain representation of time
 // domain signals.  Package fft supports a fairly efficient fourier transform
@@ -45,4 +45,4 @@
 // only interface uses the complex interface for half-sized inputs together
 // with some O(N) pre/post processing.
 //
-package fft /* import "zikichombo.org/dsp/fft" */
+package fft /* import "github.com/ffleming/dsp/fft" */

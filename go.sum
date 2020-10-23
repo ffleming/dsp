@@ -1,2 +1,2 @@
-zikichombo.org/sound v0.2.0-alpha.3 h1:lYMD6gyZC30oYobYy7VNzExjQv+BQw/Y4+Cd+zgQNKQ=
-zikichombo.org/sound v0.2.0-alpha.3/go.mod h1:akiZR7uLjsosCVBmP0t0hqsOgZ7iydYzjz92wFK2pLQ=
+github.com/ffleming/sound v0.2.0-alpha.3 h1:lYMD6gyZC30oYobYy7VNzExjQv+BQw/Y4+Cd+zgQNKQ=
+github.com/ffleming/sound v0.2.0-alpha.3/go.mod h1:akiZR7uLjsosCVBmP0t0hqsOgZ7iydYzjz92wFK2pLQ=

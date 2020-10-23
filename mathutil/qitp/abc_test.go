@@ -8,7 +8,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"zikichombo.org/dsp/mathutil/qitp"
+	"github.com/ffleming/dsp/mathutil/qitp"
 )
 
 func TestAbc(t *testing.T) {

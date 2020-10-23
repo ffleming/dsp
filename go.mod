@@ -1,3 +1,3 @@
-module zikichombo.org/dsp
+module github.com/ffleming/dsp
 
-require zikichombo.org/sound v0.2.0-alpha.3
+require github.com/ffleming/sound v0.2.0-alpha.3

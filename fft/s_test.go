@@ -12,7 +12,7 @@ import (
 	"os"
 	"testing"
 
-	"zikichombo.org/sound/freq"
+	"github.com/ffleming/sound/freq"
 )
 
 func TestPeaks(t *testing.T) {

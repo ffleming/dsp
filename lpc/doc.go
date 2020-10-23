@@ -11,5 +11,5 @@
 // Package lpc does not yet support line spectral frequencies or
 // conversion to other coefficient representations.
 //
-// Package lpc is part of http://zikichombo.org
-package lpc /* import "zikichombo.org/dsp/lpc" */
+// Package lpc is part of http://github.com/ffleming
+package lpc /* import "github.com/ffleming/dsp/lpc" */

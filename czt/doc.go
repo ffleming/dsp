@@ -6,5 +6,5 @@
 // From "Chirp Z Transform, Laurence R Rabiner, Ronald W. Schafer, Charles M. Rader
 // Nov 21 1968, Bell System Technical Journal, May-June 1969
 //
-// Package czt is part of http://zikichombo.org
-package czt /* import "zikichombo.org/dsp/czt" */
+// Package czt is part of http://github.com/ffleming
+package czt /* import "github.com/ffleming/dsp/czt" */

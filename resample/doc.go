@@ -19,8 +19,8 @@
 // a window size W = ceil(S/R) before decreasing the sample rate if you do not
 // have access to or knowledge about low pass filtering design.
 //
-// Package resample is part of http://zikichombo.org
+// Package resample is part of http://github.com/ffleming
 //
 // BUG(wsc) the shift size, effecting interpolation order limits and
 // latency of implementations is constant (64 frames).
-package resample /* import "zikichombo.org/dsp/resample" */
+package resample /* import "github.com/ffleming/dsp/resample" */

@@ -3,5 +3,5 @@
 
 // Package dsp is an umbrella for audio dsp.
 //
-// Package dsp is part of http://zikichombo.org
-package dsp /* import "zikichombo.org/dsp" */
+// Package dsp is part of http://github.com/ffleming
+package dsp /* import "github.com/ffleming/dsp" */

@@ -9,11 +9,11 @@ import (
 	"math/rand"
 	"testing"
 
-	"zikichombo.org/dsp/fft"
-	"zikichombo.org/sound"
-	"zikichombo.org/sound/freq"
-	"zikichombo.org/sound/gen"
-	"zikichombo.org/sound/ops"
+	"github.com/ffleming/dsp/fft"
+	"github.com/ffleming/sound"
+	"github.com/ffleming/sound/freq"
+	"github.com/ffleming/sound/gen"
+	"github.com/ffleming/sound/ops"
 )
 
 func TestCztFftEq(t *testing.T) {

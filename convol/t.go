@@ -6,7 +6,7 @@ package convol
 import (
 	"fmt"
 
-	"zikichombo.org/dsp/fft"
+	"github.com/ffleming/dsp/fft"
 )
 
 // T holds state for performing n by m sized linear convolution.

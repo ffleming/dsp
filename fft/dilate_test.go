@@ -8,8 +8,8 @@ import (
 	"math/cmplx"
 	"testing"
 
-	"zikichombo.org/sound/freq"
-	"zikichombo.org/sound/sndbuf"
+	"github.com/ffleming/sound/freq"
+	"github.com/ffleming/sound/sndbuf"
 )
 
 func TestDilate(t *testing.T) {

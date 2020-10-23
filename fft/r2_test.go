@@ -8,7 +8,7 @@ import (
 	"math"
 	"testing"
 
-	"zikichombo.org/sound/freq"
+	"github.com/ffleming/sound/freq"
 )
 
 func gnr() []complex128 {

@@ -6,7 +6,7 @@ package fft
 import (
 	"math"
 
-	"zikichombo.org/sound/freq"
+	"github.com/ffleming/sound/freq"
 )
 
 // FreqBin gives the DFT frequency bin of frequency a in

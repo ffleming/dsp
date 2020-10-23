@@ -3,5 +3,5 @@
 
 // Package wfn provides support for time windowing functions.
 //
-// Package wfn is part of http://zikichombo.org
-package wfn /* import "zikichombo.org/dsp/wfn" */
+// Package wfn is part of http://github.com/ffleming
+package wfn /* import "github.com/ffleming/dsp/wfn" */

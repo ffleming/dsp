@@ -6,7 +6,7 @@ package convol
 import (
 	"fmt"
 
-	"zikichombo.org/dsp/fft"
+	"github.com/ffleming/dsp/fft"
 )
 
 // K describes a convolver object T which has a precomputed argument component

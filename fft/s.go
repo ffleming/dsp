@@ -12,8 +12,8 @@ import (
 	"math/cmplx"
 	"os"
 
-	"zikichombo.org/dsp/mathutil/qitp"
-	"zikichombo.org/sound/sample"
+	"github.com/ffleming/dsp/mathutil/qitp"
+	"github.com/ffleming/sound/sample"
 )
 
 // S provides convenience wrappers around a ft spectrum.

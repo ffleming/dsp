@@ -4,9 +4,9 @@ import (
 	"math"
 	"testing"
 
-	"zikichombo.org/sound/freq"
-	"zikichombo.org/sound/gen"
-	"zikichombo.org/sound/ops"
+	"github.com/ffleming/sound/freq"
+	"github.com/ffleming/sound/gen"
+	"github.com/ffleming/sound/ops"
 )
 
 func TestCDefaultMonoChan(t *testing.T) {

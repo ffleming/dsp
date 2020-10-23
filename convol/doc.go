@@ -3,5 +3,5 @@
 
 // Package convol provides convolution implementations.
 //
-// Package convol is part of http://zikichombo.org
-package convol /* import "zikichombo.org/dsp/convol" */
+// Package convol is part of http://github.com/ffleming
+package convol /* import "github.com/ffleming/dsp/convol" */

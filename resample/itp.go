@@ -3,7 +3,7 @@ package resample
 import (
 	"math"
 
-	"zikichombo.org/dsp/wfn"
+	"github.com/ffleming/dsp/wfn"
 )
 
 // Itper provides an interface for an interpolator.

@@ -5,10 +5,10 @@ import (
 	"io"
 	"math"
 
-	"zikichombo.org/dsp/wfn"
-	"zikichombo.org/sound"
-	"zikichombo.org/sound/cil"
-	"zikichombo.org/sound/freq"
+	"github.com/ffleming/dsp/wfn"
+	"github.com/ffleming/sound"
+	"github.com/ffleming/sound/cil"
+	"github.com/ffleming/sound/freq"
 )
 
 const (

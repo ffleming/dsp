@@ -2,4 +2,4 @@
 // code is governed by a license that can be found in the License file.
 
 // Package qitp implements quadratic interpolation.
-package qitp /* import "zikichombo.org/dsp/mathutil/qitp" */
+package qitp /* import "github.com/ffleming/dsp/mathutil/qitp" */
